@@ -1,0 +1,30 @@
+/* font-family: "RobotoRegular"; */
+@font-face {
+    font-family: "RobotoRegular";
+    src: url("../fonts/RobotoRegular/RobotoRegular.eot");
+    src: url("../fonts/RobotoRegular/RobotoRegular.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/RobotoRegular/RobotoRegular.woff") format("woff"),
+    url("../fonts/RobotoRegular/RobotoRegular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+/* font-family: "Algerian"; */
+@font-face {
+    font-family: "Algerian";
+    src: url("../fonts/Algerian/Algerian.eot");
+    src: url("../fonts/Algerian/Algerian.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/Algerian/Algerian.woff") format("woff"),
+    url("../fonts/Algerian/Algerian.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+/* font-family: "FontAwesome"; */
+@font-face {
+    font-family: "font-awesome-4.7.0";
+    src: url("../fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.eot");
+    src: url("../fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff") format("woff"),
+    url("../fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}

@@ -1,0 +1,47 @@
+@media only screen and (max-width: 842px) {
+  .effect-ruby {
+    width: 49.7%; } }
+
+@media only screen and (max-width: 795px) {
+  .my-photo__m {
+    display: block; }
+  .e-2 {
+    display: none !important; }
+  .e-1 {
+    width: 100%; } }
+
+@media only screen and (max-width: 691px) {
+  .works-container {
+    text-align: center; }
+  .effect-ruby {
+    width: 100%; } }
+
+@media only screen and (max-width: 508px) {
+  .transform {
+    -webkit-transform: none !important;
+        -ms-transform: none !important;
+            transform: none !important;
+    top: 0 !important;
+    position: relative;
+    padding-top: 30px; }
+  .sec-block-width {
+    background-image: url(../img/fon.png);
+    background-repeat: no-repeat;
+    min-height: 100%;
+    width: 100%;
+    background-position: center;
+    background-size: cover; } }
+
+@media only screen and (max-width: 396px) {
+  h1 {
+    font-size: 35px; }
+  h2 {
+    font-size: 25px; }
+  .header__text ul {
+    padding-top: 5px; }
+  .link a {
+    height: 25px;
+    width: 25px;
+    font-size: 16px;
+    line-height: 1.5;
+    margin-left: 5px; } }
